@@ -15,7 +15,7 @@
       <div class="flex items-center w-full max-w-md px-6 mx-auto lg:w-2/6">
         <div class="flex-1">
           <div class="-center">
-            <img class="-center w-100 h-100" src="src/assets/logo/app_icon.svg"/>
+            <img class="-center w-100 h-100" src="https://i.im.ge/2022/09/24/19JpK0.Thiet-ke-chua-co-ten.png"/>
           </div>
 
           <div class="mt-8">
