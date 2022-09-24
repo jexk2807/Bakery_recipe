@@ -1,21 +1,24 @@
-<template class="w-full h-full">
+<template class="bg-gray-800 font-sans leading-normal tracking-normal mt-12">
 
- <h1> Day la trang homie </h1>
+  <header>
+     <home_hearder />
+  </header>
+  <main>
+    <home_main />
+  </main>
+
 </template>
 
 <script>
-
+import HomeHeader from "../../Components/Header.vue";
+import HomeMain from "../../Components/Main.vue";
 export default {
     name: 'home',
     components: {
+      home_hearder : HomeHeader,
+      home_main : HomeMain,
     }
 }
+
 </script>
 
-<style>
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-</style>    
