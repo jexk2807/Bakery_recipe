@@ -3,7 +3,7 @@
 
     <div class="flex justify-center h-screen">
       <!-- background -->
-      <div class="hidden bg-cover lg:block lg:w-2/3" style="background-image: url(src/assets/background/bgr.png)" >
+      <div class="hidden bg-cover lg:block lg:w-2/3" style="background-image: url(https://i.im.ge/2022/09/24/19GulW.bgr.png)" >
         <div class="backdrop-blur-sm	flex items-center h-full px-20 bg-gray-900 bg-opacity-60 	">
           <div>
             <h2 class="text-5xl font-bold text-white">Bakery Recipe</h2>
